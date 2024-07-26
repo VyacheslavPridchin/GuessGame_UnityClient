@@ -8,4 +8,4 @@
 - Игрок, назвавший число, наиболее близкое к загаданному сервером, получает очко;
 - Очки каждого игрока сохраняются в базе данных с использованием встроенной в Orleans системы хранения.
 
-[Backend](https://github.com/VyacheslavPridchin/GuessGame_Server)
+[Backend](https://github.com/VyacheslavPridchin/GuessGame_Backend)
